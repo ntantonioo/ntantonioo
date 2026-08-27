@@ -1,4 +1,4 @@
-<h1 align="center">Antonio Ribeiro</h1>
+<h1 align="center">Antônio Ribeiro</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Desenvolvedor_Full_Stack-Em_Aprendizado-2E9EF7?style=for-the-badge" />
