@@ -32,12 +32,3 @@ Busco me tornar um desenvolvedor full stack completo, unindo lógica, criativida
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ntantonioo&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntantonioo&layout=compact&theme=radical" />
-</p>
