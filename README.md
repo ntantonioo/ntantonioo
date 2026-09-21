@@ -4,9 +4,11 @@
   <img src="https://img.shields.io/badge/Desenvolvedor_Full_Stack-Em_Aprendizado-2E9EF7?style=for-the-badge" />
 </p>
 
+<p align="center">
 Busco me tornar um desenvolvedor full stack completo, unindo lógica, criatividade e aprendizado constante em cada projeto que construo.
+</p>
 
----
+
 
 <p align="center">
   📍 <strong>Ciência da Computação</strong> - <strong>UFPB</strong>
