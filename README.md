@@ -31,7 +31,7 @@ Busco me tornar um desenvolvedor full stack completo, unindo lógica, criativida
       <img src="https://github.com/user-attachments/assets/5d0541ab-092d-4b64-ba5d-d58968f12664" alt="Logo do Evangelizare" width="100">
     </td>
     <td valign="middle">
-      <h3><a href="[https://github.com/ntantonioo/evangelizar_](https://github.com/ntantonioo/evangelizare_.git)">Evangelizare</a></h3>
+      <h3><a href="https://github.com/ntantonioo/evangelizare_">Evangelizare</a></h3>
       <p>Plataforma de apoio e monitoramento da catequese. O sistema ajuda a organizar o cadastro de catequistas e catequisandos, o gerenciamento de turmas e a divulgação de notícias da comunidade, com acesso personalizado de acordo com o perfil de cada usuário.</p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
     </td>
