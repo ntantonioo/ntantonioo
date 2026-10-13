@@ -21,8 +21,18 @@ Busco me tornar um desenvolvedor full stack completo, unindo lógica, criativida
   <a href="mailto:antonioribeiroan7376914@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
+---
+## 🚀 Projetos
 
+<p align="center">
+  <img src="assets/evangelizare-logo.png" alt="Logo do Evangelizare" width="200">
+</p>
 
+### [Evangelizare](https://github.com/ntantonioo/evangelizar_)
+
+Plataforma de monitoramento de catequese que organiza usuários, turmas e notícias da comunidade, com permissões de acesso de acordo com o perfil de cada usuário (Administrador, Catequista e Catequisando).
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> 
 ---
 
 ### 💻 Tecnologias
