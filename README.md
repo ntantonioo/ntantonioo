@@ -21,18 +21,23 @@ Busco me tornar um desenvolvedor full stack completo, unindo lógica, criativida
   <a href="mailto:antonioribeiroan7376914@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
----
+
+
 ## 🚀 Projetos
 
-<p align="center">
-  <img src="assets/evangelizare-logo.png" alt="Logo do Evangelizare" width="200">
-</p>
+<table>
+  <tr>
+    <td width="120" valign="middle">
+      <img src="https://github.com/user-attachments/assets/5d0541ab-092d-4b64-ba5d-d58968f12664" alt="Logo do Evangelizare" width="100">
+    </td>
+    <td valign="middle">
+      <h3><a href="https://github.com/ntantonioo/evangelizar_">Evangelizare</a></h3>
+      <p>Plataforma de monitoramento de catequese que organiza usuários, turmas e notícias da comunidade, com permissões de acordo com o perfil de cada usuário (Administrador, Catequista e Catequisando).</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+    </td>
+  </tr>
+</table>
 
-### [Evangelizare](https://github.com/ntantonioo/evangelizar_)
-
-Plataforma de monitoramento de catequese que organiza usuários, turmas e notícias da comunidade, com permissões de acesso de acordo com o perfil de cada usuário (Administrador, Catequista e Catequisando).
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> 
 ---
 
 ### 💻 Tecnologias
