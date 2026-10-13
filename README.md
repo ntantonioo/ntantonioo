@@ -32,7 +32,7 @@ Busco me tornar um desenvolvedor full stack completo, unindo lógica, criativida
     </td>
     <td valign="middle">
       <h3><a href="https://github.com/ntantonioo/evangelizar_">Evangelizare</a></h3>
-      <p>Plataforma de monitoramento de catequese que organiza usuários, turmas e notícias da comunidade, com permissões de acordo com o perfil de cada usuário (Administrador, Catequista e Catequisando).</p>
+      <p>Plataforma de apoio e monitoramento da catequese. O sistema ajuda a organizar o cadastro de catequistas e catequisandos, o gerenciamento de turmas e a divulgação de notícias da comunidade, com acesso personalizado de acordo com o perfil de cada usuário.</p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
     </td>
   </tr>
